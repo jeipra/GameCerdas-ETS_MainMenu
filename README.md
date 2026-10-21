@@ -1,7 +1,6 @@
-# Tower Defense - Main Menu
+# CRYSTALFORGE Tower Defense - Main Menu
 
 Bagian **Main Menu / Landing Page** untuk project game tower defense (mata kuliah Game Cerdas).
-Dikerjakan oleh: **[nama kamu]**
 
 ## Isi menu
 
