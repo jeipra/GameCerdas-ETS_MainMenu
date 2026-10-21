@@ -170,7 +170,3 @@ SceneManager.LoadScene("MainMenu");
 | Tombol tidak bisa diklik | `EventSystem` hilang dari scene. |
 
 ---
-
-## Kontak
-
-Ada yang error atau bingung? Hubungi **[nama kamu / kontak]**.
